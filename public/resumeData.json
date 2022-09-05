@@ -1,0 +1,185 @@
+{
+  "main": {
+    "name":"My Portfolio",
+    "description":"I am a 3rd year CSE undergrad @ IIITB. I love to do web development, app development and love to explore fields like Machine Learning and Software Engineering",
+    "image":"profilepic.jpg",
+    "bio":"Hello Guys! I am Manas Agrawal, a 3rd year undergrad @ IIITB. I did my high school from Indore, Madhya Pradesh in 2020. After that I joined iMTech program in IIITB and currently doing specialisation in AIML.",
+    "contactmessage":"Submit your Queries here",
+    "email": "",
+    "phone": "",
+    "github":"https://github.com/YoYo2201",
+    "project":"https://github.com/YoYo2201",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/manas.agrawal.982292",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/ManasAgr2201",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/manas-agrawal-1bb087202/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/manas_agrawal2201",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/YoYo2201",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"International Institute of Information Technology, Bangalore",
+        "degree":"iMTech CSE",
+        "graduated":"July 2025",
+        "description":""
+      },
+      {
+        "school":"Shri Agrasen Vidyalaya",
+        "degree":"Till 12th",
+        "graduated":"March 2020",
+        "description": ""
+      }
+    ],
+    "work":[
+      {
+        "company":"Web Science Lab (WSL), IIITB",
+        "title":"Project Intern",
+        "years":"August 2022 - Present",
+        "description":"I am a part of the team working on Traffic Modelling and Simulation Project"
+      },
+      {
+        "company":"E-Health Research Center (EHRC)",
+        "title":"Project Intern",
+        "years":"May 2022 - July 2022",
+        "description":"I was a part of the team that analysed the data from NIMHANS Lab and generated charts, plots and visualisations of subsets of data extracted from backend."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"90%"
+      },
+      {
+        "name":"CPP",
+        "level":"95%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Flutter",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"FireChatting",
+        "category":"My own Chat Application",
+        "image":"01.jpg",
+        "url":"https://github.com/YoYo2201/ChattingWebApp"
+      },
+      {
+        "title":"Zense Recruitment",
+        "category":"Zense Recruitment Website",
+        "image":"02.jpg",
+        "url":"https://github.com/YoYo2201/ZenseApp"
+      },
+      {
+        "title":"TuberZone",
+        "category":"Youtube Audio/Video Downloader along with an offline Music Player",
+        "image":"03.jpg",
+        "url":"https://github.com/YoYo2201/TuberZone"
+      },
+      {
+        "title":"Shooter Game",
+        "category":"A collaborated game made using SDL-CPP",
+        "image":"04.jpg",
+        "url":"https://github.com/pushkarpawar15/SDL_CPP_-Game"
+      },
+      {
+        "title":"Complaint Portal",
+        "category":"A collaborated Complaint Portal which is used to register hostel/administration/mess related complaints",
+        "image":"05.jpg",
+        "url":"https://github.com/pushkarpawar15/complaint-box"
+      },
+      {
+        "title":"EHRC Project",
+        "category":"A collaborated project done in summer as a project intern in EHRC for NIMHANS Lab",
+        "image":"06.jpg",
+        "url":"https://github.com/chinmayparekh/nimhans"
+      },
+      {
+        "title":"Login Panel",
+        "category":"A basic Login Panel made using Java",
+        "image":"07.jpg",
+        "url":"https://github.com/YoYo2201/LoginPanel"
+      },
+      {
+        "title":"Scientific Calculator",
+        "category":"A Scientific Calculator built using Python",
+        "image":"08.png",
+        "url":"https://github.com/YoYo2201/Scientific-Calculator"
+      },
+      {
+        "title":"Incremental Algorithm",
+        "category":"An Incremental Algorithm (Topology) is implemented to predict B_0, B_1, B_2 and B_3 for different types of figures",
+        "image":"09.png",
+        "url":"https://github.com/YoYo2201/Incremental_Algorithm"
+      },
+      {
+        "title":"COVID-19 Statistics",
+        "category":"A collaborated Project made to display the statistics of COVID-19 cases for all the Indian states",
+        "image":"10.jpg",
+        "url":"https://github.com/raddi1972/Canvas-Competition"
+      },
+      {
+        "title":"Do It",
+        "category":"A To-Do List application built using React",
+        "image":"11.jpg",
+        "url":"https://github.com/YoYo2201/DoIt"
+      },
+      {
+        "title":"All in One",
+        "category":"This mobile application is a Youtube Audio/Video Downloader along with Youtube Music, Spotify, Gaana, Wynk Music and Jio+Saavan integrated into a single platform",
+        "image":"12.png",
+        "url":"https://github.com/YoYo2201/Android-Application-All-in-One"
+      }
+    ]
+  }
+}
